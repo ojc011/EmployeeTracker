@@ -1,23 +1,8 @@
 {
   "dependencies": {
-    "e": "^0.2.1"
-  },
-  "name": "employeetracker",
-  "description": "",
-  "version": "1.0.0",
-  "main": "index.js",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ojc011/EmployeeTracker.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ojc011/EmployeeTracker/issues"
-  },
-  "homepage": "https://github.com/ojc011/EmployeeTracker#readme"
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1",
+    "util": "^0.12.3"
+  }
 }
